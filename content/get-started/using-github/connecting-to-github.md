@@ -1,4 +1,4 @@
----
+content/get-started/using-github/connecting-to-github.md---
 title: Connecting to GitHub
 intro: 'Learn about the tools you can use to work with repositories hosted on {% data variables.product.github %}.'
 versions:
